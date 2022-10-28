@@ -15,16 +15,17 @@
 
 ## About
 
-```
 All Moroccan cities and their regions are contained in this package, which was created by a Moroccan JavaScript student.<br/>
 you can use this page with react select library and create a custom select with search button.
-
-```
 
 ## Installation
 
 ```sh
-npm i list-of-moroccan-cities
+npm install list-of-moroccan-cities
+```
+
+```sh
+yarn add list-of-moroccan-cities
 ```
 
 ## Usage
