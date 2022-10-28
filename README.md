@@ -9,7 +9,6 @@
   - [For Cities](#for-cities)
   - [For regions](#for-regions)
   - [For cities count & regions count](#for-cities-count--regions-count)
-- [Changelog](#changelog)
 - [Thanks for](#thanks-for)
 - [License](#license)
 
