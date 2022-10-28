@@ -20,3 +20,8 @@ function writeJson(fileName, data) {
     }
   });
 }
+
+// export
+module.exports = {
+  writeJson,
+};

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Tanger-Tétouan-Al Hoceïma",
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "id": "2",
+    "name": "l'Oriental",
+    "region": "l'Oriental"
+  },
+  {
+    "id": "3",
+    "name": "Fès-Meknès",
+    "region": "Fès-Meknès"
+  },
+  {
+    "id": "4",
+    "name": "Rabat-Salé-Kénitra",
+    "region": "Rabat-Salé-Kénitra"
+  },
+  {
+    "id": "5",
+    "name": "Béni Mellal-Khénifra",
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "id": "6",
+    "name": "Casablanca-Settat",
+    "region": "Casablanca-Settat"
+  },
+  {
+    "id": "7",
+    "name": "Marrakech-Safi",
+    "region": "Marrakech-Safi"
+  },
+  {
+    "id": "8",
+    "name": "Drâa-Tafilalet",
+    "region": "Drâa-Tafilalet"
+  },
+  {
+    "id": "9",
+    "name": "Souss-Massa",
+    "region": "Souss-Massa"
+  },
+  {
+    "id": "10",
+    "name": "Guelmim-Oued Noun",
+    "region": "Guelmim-Oued Noun"
+  },
+  {
+    "id": "11",
+    "name": "Laâyoune-Sakia El Hamra",
+    "region": "Laâyoune-Sakia El Hamra"
+  },
+  {
+    "id": "12",
+    "name": "Dakhla-Oued Ed Dahab",
+    "region": "Dakhla-Oued Ed Dahab"
+  }
+]
