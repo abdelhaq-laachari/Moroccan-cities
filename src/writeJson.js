@@ -5,7 +5,7 @@ const write = require("write-json");
  * @name writeJson
  * @description a function allowing to write a json file and save it in another folder
  *
- * @param {String} fileName
+ * @param {String} fileName 
  * @param {Any} data
  *
  *
