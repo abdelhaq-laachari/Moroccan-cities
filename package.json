@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdelhaq-laachari/Morocco-cities-package.git"
+    "url": "https://github.com/abdelhaq-laachari/Moroccan-cities"
   },
   "keywords": [
     "Morocco",
@@ -21,9 +21,9 @@
   "author": "Abdelhaq laachari (Also know as Godfather)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abdelhaq-laachari/Morocco-cities-package/issues"
+    "url": "https://github.com/abdelhaq-laachari/Moroccan-cities/issues"
   },
-  "homepage": "https://github.com/abdelhaq-laachari/Morocco-cities-package#readme",
+  "homepage": "https://github.com/abdelhaq-laachari/Moroccan-cities#readme",
   "dependencies": {
     "write-json": "^3.0.1"
   }
