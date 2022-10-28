@@ -8,7 +8,7 @@
 - [Usage](#usage)
   - [For Cities](#for-cities)
   - [For regions](#for-regions)
-  - [For cities count & regions count](#for-cities-count--regions-count)
+  - [For each city and its region](#for-each-city-and-its-region)
 - [Thanks for](#thanks-for)
 - [License](#license)
 
