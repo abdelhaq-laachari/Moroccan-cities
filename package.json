@@ -1,6 +1,6 @@
 {
   "name": "list-of-moroccan-cities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package contains all Moroccan cities and regions.",
   
   "scripts": {
@@ -13,7 +13,10 @@
   },
   "keywords": [
     "Morocco",
-    "cities"
+    "cities",
+    "javaScript",
+    "youcode",
+    "Robert Noyce"
   ],
   "author": "Abdelhaq laachari (Also know as Godfather)",
   "license": "MIT",
