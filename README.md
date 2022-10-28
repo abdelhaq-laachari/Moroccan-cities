@@ -33,7 +33,7 @@ yarn add list-of-moroccan-cities
 ### For Cities
 
 ```js
-const cities = require('list-of-moroccan-cities')
+const { cities } = require("list-of-moroccan-cities");
 ```
 
 it's will return an array of objects like this
@@ -41,20 +41,22 @@ it's will return an array of objects like this
 ```json
 [
   {
-    "id": 102,
-    "region_number": 7,
-    "name": "Marrakech",
-    "region_name": "Marrakech-Safi",
-    "uniq_id": "city_80f346f3-7177-44bd-a79c-5a9235d65ea1"
+    "id": "0",
+    "name": "Afourar",
+    "label": "Afourar"
+  },
+  {
+    "id": "1",
+    "name": "Agadir",
+    "label": "Agadir"
   }
 ]
 ```
-**Note**: the `uniq_id` property is not constant, that mean it's will changing on every version
 
 ### For regions
 
 ```js
-const { regions } = require("morocco-cities");
+const { regions } = require("list-of-moroccan-cities");
 ```
 
 it's will return an array of objects like this
@@ -62,27 +64,46 @@ it's will return an array of objects like this
 ```json
 [
   {
-    "id": 12,
-    "cities_count": 2,
-    "cities_list": ["Awsard", "Oued-Eddahab"],
-    "name": "Dakhla-Oued Ed Dahab"
+    "id": "1",
+    "name": "Tanger-Tétouan-Al Hoceïma",
+    "region": "Tanger-Tétouan-Al Hoceïma"
+  },
+  {
+    "id": "2",
+    "name": "l'Oriental",
+    "region": "l'Oriental"
   }
 ]
 ```
 
-### For cities count & regions count
+### For each city and its region
 
 ```js
-const { citisCount, regionsCount } = require("morocco-cities");
+const { citiesWithRegion } = require("list-of-moroccan-cities");
 ```
 
-## Changelog
+it's will return an array of objects like this
 
-[Read From Here](./CHANGELOG)
+```json
+[
+  {
+    "id": "0",
+    "name": "Afourar",
+    "label": "Afourar",
+    "region": "Béni Mellal-Khénifra"
+  },
+  {
+    "id": "1",
+    "name": "Agadir",
+    "label": "Agadir",
+    "region": "Souss-Massa"
+  }
+]
+```
 
 ## Thanks for
 
-I want to say Thanks for **Alaouy** because i'm using [his repository data](https://github.com/alaouy/sql-moroccan-cities)
+I'm using this person's **Alaouy** repository to build this package, so I want to give him a big thank thanks.[his repository data](https://github.com/alaouy/sql-moroccan-cities)
 
 ## License
 
