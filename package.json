@@ -1,8 +1,7 @@
 {
   "name": "list-of-moroccan-cities",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package contains all Moroccan cities and regions.",
-  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/index.js"
