@@ -102,7 +102,7 @@ it's will return an array of objects like this
 
 ## Thanks for
 
-I'm using this person's **Alaouy** repository to build this package, so I want to give him a big thank thanks.[his repository data](https://github.com/alaouy/sql-moroccan-cities)
+I'm using this person's **Alaouy** repository to build this package, so I want to give him a big thank thanks. [his repository data](https://github.com/alaouy/sql-moroccan-cities)
 
 ## License
 
